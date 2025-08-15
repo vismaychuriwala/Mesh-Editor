@@ -12,29 +12,6 @@ A video demonstration of the editor's features is available on Vimeo:
 
 *A cow mesh loaded in the editor, showcasing the half-edge structure and interactive editing capabilities.*
 
-## Getting Started
-
-### Prerequisites
-
-*   **Qt SDK:** This project requires the Qt Framework. You can download it from the [official Qt website](https://www.qt.io/download).
-*   A C++ compiler (e.g., `g++`, `clang`, `MSVC`).
-*   OpenGL libraries.
-
-### Building and Running
-
-This project uses the Qt build system (`qmake`).
-
-1.  **Generate the Makefile:**
-    ```bash
-    qmake
-    ```
-2.  **Build the application:**
-    ```bash
-    make
-    ```
-3.  **Run the editor:**
-    The executable will be created in the project directory. You can run it from the command line.
-
 ## Key Features
 
 *   **Half-Edge Mesh Representation:**
@@ -59,4 +36,3 @@ This project uses the Qt build system (`qmake`).
 *   **OpenGL:** Used for all 3D rendering.
 *   **GLSL (OpenGL Shading Language):** For writing the vertex and fragment shaders.
 *   **Qt Framework:** Used for creating the UI, handling user input, and managing the OpenGL context.
-
