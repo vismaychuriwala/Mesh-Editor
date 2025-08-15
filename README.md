@@ -8,7 +8,7 @@ A video demonstration of the editor's features is available on Vimeo:
 
 **[Watch the Demo on Vimeo](https://vimeo.com/1105288119)**
 
-[![Mesh-Editor Demo](images/cow.png)](https://vimeo.com/1105288119)
+[![Mesh-Editor Demo](images/mesh.png)](https://vimeo.com/1105288119)
 
 *A cow mesh loaded in the editor, showcasing the half-edge structure and interactive editing capabilities.*
 
